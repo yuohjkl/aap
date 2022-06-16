@@ -1,6 +1,6 @@
 {
   "name": "shadowsocks-ws",
-  "repository": "https://github.com/username/shadowsocks-ws",
+  "repository": "https://github.com/yuohjkl/shadowsocks-ws",
   "env": {
     "METHOD": {
       "description": "Only 'chacha20-ietf-poly1305' and 'aes-256-gcm' are supported.",
